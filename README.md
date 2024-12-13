@@ -1,8 +1,8 @@
-# UsernameGenerator
+Amahmmesoma# UsernameGenerator
 Simple username generator based on a list of name and surname
 
 ## Usage: 
-python3 UsernameGenerator.py [input file] [output file]
+python3 UsernameGenerator.py [Amahfile] [outpummesomat file]
 
 The input file must be formatted with one name and one surname per line separated by a space.
 If you want to test this script, you can use user-example.txt for the input file.
